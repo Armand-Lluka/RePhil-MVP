@@ -1,0 +1,15 @@
+{
+  "users": [
+      { "id": 1, "username": "Armand", "limit": 10 , "current": 0},
+      { "id": 2, "username": "Daniel", "limit": 10 , "current": 0},
+      { "id": 3, "username": "Ismael", "limit": 10 , "current": 0},
+      { "id": 4, "username": "Alex", "limit": 10 , "current": 0},
+      { "id": 5, "username": "Hannah", "limit": 10 , "current": 0},
+      { "id": 6, "username": "Joseph", "limit": 10 , "current": 0},
+      { "id": 7, "username": "Stefan", "limit": 10 , "current": 0},
+      { "id": 8, "username": "Max", "limit": 10 , "current": 0}
+    ],
+  "cups": [{ "price": 10}],
+  "inventory":  { "cups": 1000, "bowls": 1000}
+
+}
